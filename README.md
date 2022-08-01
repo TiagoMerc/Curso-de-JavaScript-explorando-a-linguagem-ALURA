@@ -22,6 +22,8 @@ O que aprendemos nessa aula:
 
 - Operadores aritméticos
 
+**Arquivos:** 1 a 3 
+
 ![Introdução a linguagem](img/prints/instrocucaoLinguagem.png)
 
 ### 02. Tipos de variáveis 
@@ -39,3 +41,23 @@ O que aprendemos nessa aula:
 - Usando números com casa decimal
 
 - Atribuição de variáveis
+
+**Arquivos:** 4 e 5 
+
+### 03. Trabalhando com muitos elementos
+
+O que aprendemos nessa aula:
+
+- Criação de Arrays;
+
+- Inserção de itens em um array;
+
+- Array splice;
+
+- Palavras reservadas;
+
+- Indices do array;
+
+**Arquivos:** 5 e 6
+
+### 04. Condicionais e fluxo de execução
