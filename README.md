@@ -25,3 +25,17 @@ O que aprendemos nessa aula:
 ![Introdução a linguagem](img/prints/instrocucaoLinguagem.png)
 
 ### 02. Tipos de variáveis 
+
+O que aprendemos nessa aula:
+
+- Const e let
+
+- Case Sensitive
+
+- Adicionando comentários
+
+- parseInt e parseFloat
+
+- Usando números com casa decimal
+
+- Atribuição de variáveis
