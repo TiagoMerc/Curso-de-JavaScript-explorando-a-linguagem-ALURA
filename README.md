@@ -61,3 +61,31 @@ O que aprendemos nessa aula:
 **Arquivos:** 5 e 6
 
 ### 04. Condicionais e fluxo de execução
+
+O que aprendemos nessa aula:
+
+- If e Else
+
+- Operadores lógicos
+
+- if encadeado
+
+- else if
+
+- && e ||
+
+### 05. Iterando sobre coleções
+
+O que aprendemos nessa aula:
+
+- While;
+
+- Break;
+
+- Usando o Debbuger do VS Code;
+
+- Entendendo o fluxo de execução do código;
+
+- configurando o debbuger do VSCode;
+
+- For Loop;

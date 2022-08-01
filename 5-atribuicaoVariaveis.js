@@ -17,7 +17,7 @@ console.log(nomeCompleto);
 //_______________
 
 let idade; //declarando variável
-idade = 26; //atribuindo valor
+idade = 26; //atribuitndo valor
 idade = idade+1;
 console.log(idade);
 

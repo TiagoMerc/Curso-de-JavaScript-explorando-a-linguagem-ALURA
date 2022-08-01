@@ -1,0 +1,26 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node", //Tipo de configuração
+      "request": "launch", //O que eu quero que ele faça. Lauch, inicia a aplicação
+      "name": "8-Loops", //Nome da aplicação
+      "skipFiles": [
+        "<node_internals>/**"   // Arquivos que ele vai pular, que não vai faazer o debugger
+      ],
+      "program": "${workspaceFolder}/8-loops.js" //Qual vai ser o arquivo de entrada
+    },
+    {
+      "type": "node", //Tipo de configuração
+      "request": "launch", //O que eu quero que ele faça. Lauch, inicia a aplicação
+      "name": "7-condicionais", //Nome da aplicação
+      "skipFiles": [
+        "<node_internals>/**"   // Arquivos que ele vai pular, que não vai faazer o debugger
+      ],
+      "program": "${workspaceFolder}/7-condicionais.js" //Qual vai ser o arquivo de entrada
+    }
+  ]
+}
